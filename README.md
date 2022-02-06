@@ -1,5 +1,5 @@
 # CLI_NoteTaker
-A very simple bash script for taking and organizing simple text notes.
+A very simple bash script for taking simple text notes.
 
 # How to use
 
