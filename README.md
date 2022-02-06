@@ -1,2 +1,3 @@
 # CLI_NoteTaker
-A simple note taker for linux
+A very simple bash script for taking and organizing simple text notes.
+
